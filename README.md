@@ -22,3 +22,7 @@ Gridded meteorological reanalysis data (a MERRA-2-style dataset), subset to the 
 #### Tech
 
 R (base `lm`, `splines`)
+
+---
+
+Built by Vincent Rupp. Shared for portfolio and review purposes; please get in touch before reusing it.
